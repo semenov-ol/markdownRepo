@@ -99,8 +99,6 @@ Image:
 3. Item C
                 
 ----
-
-[](/data-set/PROZORRO-Criteria.csv?c=1,2,4-6)
                     
 ### Tables
                     
