@@ -1,0 +1,19 @@
+Code,Attributes,Values
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7c637c0c-7703-4389-ba52-02997a055bd7,cbc:Description,"Фізична особа, яка є учасником процедури закупівлі, не була засуджена за злочин, учинений з корисливих мотивів (зокрема, пов'язаний з хабарництвом та відмиванням коштів), судимість з якої не знято або не погашено у встановленому законом порядку"
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7c637c0c-7703-4389-ba52-02997a055bd7,cbc:TenderingCriterionProperty,booleanExpectedTrue
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7c637c0c-7703-4389-ba52-02997a055bd7,cac:SubsidiaryTenderingCriterionPropertyGroup,41dd2e9b-1bfd-44c7-93ee-56bd74a4334b
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7458d42a-e581-4640-9283-34ceb3ad4345,cbc:Description,"Службова (посадова) особа учасника процедури закупівлі, яка підписала тендерну пропозицію (або уповноважена на підписання договору в разі переговорної процедури закупівлі), не була засуджена за злочин, вчинений з корисливих мотивів (зокрема, пов'язаний з хабарництвом, шахрайством та відмиванням коштів), судимість з якої не знято або не погашено у встановленому законом порядку"
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7458d42a-e581-4640-9283-34ceb3ad4345,cbc:TenderingCriterionProperty,booleanExepctedTrue
+005eb9ed-1347-4ca3-bb29-9bc0db64e1ab.7458d42a-e581-4640-9283-34ceb3ad4345,cac:SubsidiaryTenderingCriterionPropertyGroup,41dd2e9b-1bfd-44c7-93ee-56bd74a4334b
+,,
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.1,cbc:Description,"Інформація перевіряється Замовником у Єдиному Державному реєстрі осіб, які вчинили корупційні правопорушення - https://corruptinfo.nazk.gov.ua"
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.1,cbc:TenderingCriterionProperty,booleanExpectedTrue
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.1,cac:SubsidiaryTenderingCriterionPropertyGroup,41dd2e9b-1bfd-44c7-93ee-56bd74a4334b
+,,
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.2,cbc:Description,"Інформація перевіряється Замовником у Єдиному Державному реєстрі осіб, які вчинили корупційні правопорушення - https://corruptinfo.nazk.gov.ua"
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.2,cbc:TenderingCriterionProperty,booleanExpectedTrue
+c27b7c4e-c837-4529-b867-ed55ce639db5.7c637c0c-7703-4389-ba52-02997a055bd7.2,cac:SubsidiaryTenderingCriterionPropertyGroup,41dd2e9b-1bfd-44c7-93ee-56bd74a4334b
+,,
+d789d01a-fe03-4ccd-9898-73f9cfa080d1.7c637c0c-7703-4389-ba52-02997a055bd7,cbc:Description,
+d789d01a-fe03-4ccd-9898-73f9cfa080d1.7c637c0c-7703-4389-ba52-02997a055bd7,cbc:TenderingCriterionProperty,booleanExpectedTrue
+d789d01a-fe03-4ccd-9898-73f9cfa080d1.7c637c0c-7703-4389-ba52-02997a055bd7,cac:SubsidiaryTenderingCriterionPropertyGroup,41dd2e9b-1bfd-44c7-93ee-56bd74a4334b
