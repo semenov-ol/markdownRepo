@@ -25,6 +25,8 @@
 ###### 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 
 ### Characters
+
+[](/data-set/PROZORRO-Criteria.csv?c=1,2,4-6&r=3-5)
                 
 ----
 
@@ -53,6 +55,8 @@ Paragraphs and Line Breaks
 [Links with title](http://localhost/ "link title")
 
 `<link>` : <https://github.com>
+
+[](/data-set/PROZORRO-Criteria.csv)
     
 ### Images
 
@@ -95,6 +99,8 @@ Image:
 3. Item C
                 
 ----
+
+[](/data-set/PROZORRO-Criteria.csv?c=1,2,4-6)
                     
 ### Tables
                     
@@ -126,6 +132,8 @@ Content Cell  | Content Cell
 | zebra stripes | are neat        |    $1 |
                 
 ----
+
+[](/data-set/PROZORRO-Criteria.csv?r=1,2,4-6)
 
 #### HTML entities
 
