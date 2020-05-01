@@ -56,7 +56,7 @@ Paragraphs and Line Breaks
 
 `<link>` : <https://github.com>
 
-[](/data-set/PROZORRO-Criteria.csv)
+[](/data-set/PROZORRO-Legislation.csv)
     
 ### Images
 
@@ -131,7 +131,7 @@ Content Cell  | Content Cell
                 
 ----
 
-[](/data-set/PROZORRO-Criteria.csv?r=1,2,4-6)
+[](/data-set/PROZORRO-QuestionGroups.csv?r=1,2,4-6)
 
 #### HTML entities
 
