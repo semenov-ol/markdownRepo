@@ -56,7 +56,7 @@ export const JsonScheme: React.FC<SchemeProps> = ({ href, title }) => {
   return (
     <FadeIn>
       <Flex direction="column" margin={{ top: 'regular' }}>
-        <Wrapper schema={source} title="BLA"/>
+        <Wrapper schema={source} title="Category Version" />
       </Flex>
     </FadeIn>
   );
