@@ -1,7 +1,7 @@
 # BLA BLA Edited from Github UI
 
 [](/data-set/PROZORRO-QuestionGroups.csv?r=1,2,4-6 "Question Groups")
-[](/data-set/scheme.json)
+[](/data-set/category.schema.json)
 
 # header
 
